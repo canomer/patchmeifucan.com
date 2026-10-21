@@ -1,7 +1,6 @@
 # Notice
 
 This report sent to ZDI and triaged. After consideration, they decided to classify this finding as "Not Vulnerability".
-```
 
 ---
 
